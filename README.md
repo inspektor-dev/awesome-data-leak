@@ -1,32 +1,16 @@
 # Awesome data leaks
 
 Here we collected all the list data leaks happened across the world. Feel free to add to the list if some
-of the leaks are missing.
+of the leaks are missing. of course, it's not awesome to have data leaks.
 
 # Table Content
-- India
+- [America](https://github.com/inspektor-dev/awesome-data-leak#america)
+- [Asia](https://github.com/inspektor-dev/awesome-data-leak#asia)
+- [Australia](https://github.com/inspektor-dev/awesome-data-leak#australia)
+- [Europe](https://github.com/inspektor-dev/awesome-data-leak#europe)
 
-## Asia
-- [Mobikwik](https://indianexpress.com/article/technology/tech-news-technology/mobikwik-database-leaked-on-dark-web-company-denies-any-data-breach-7251448/) Mobikwik is india's leading payment solution providers, where they leaked 100 million user data which includes user identification number.
-- [Unacademy data breach](https://cisomag.eccouncil.org/unacademy-data-breach/) India-based online learning platform Unacademy suffered a data breach that exposed details of 22 million users.
-- [Upstox](https://timesofindia.indiatimes.com/business/india-business/upstox-face-data-breach-co-says-ramped-up-security/articleshow/82021166.cms) Upstox is a popular stock trading platform, which leaked 2.5 million user leaked personal indentification including kyc details.
-- [Tokopedia](https://www.thejakartapost.com/news/2020/05/04/tokopedia-data-breach-exposes-vulnerability-of-personal-data.html) Tokopedia is a Indonesia ecommerce comapny which valued more tha billion dollor have leaked 15 million user data.
-- [Lazada](https://www.channelnewsasia.com/singapore/lazada-redmart-data-breach-personal-information-millions-account-1305061) Lazada is a ecommerce company based out of south east asia leaked user credit card detaila and phone numbers
-- [DangDang](https://www.forcepoint.com/blog/x-labs/chinese-internet-suffers-most-serious-user-data-leak-history) DangDang is a chinese ecommerce company have leaked 40 million users data.
-- [Zomato](https://blog.ipleaders.in/zomatos-security-breach-data-leak-one-needs-know/#:~:text=Zomato%20is%20an%20online%20platform,IDs%2C%20usernames%20and%20password%20hashes.) Zomato is a food ordering platform have leaked all of it's user data including email and password.
-- [Zoomcar](https://www.team-bhp.com/news/zoomcar-hacked-data-35-million-users-sale) Zoomcar is a car rental platform which leaked 3.5 million user data
-
-
-## Europe
-- [Foodora](https://cisomag.eccouncil.org/foodora-data-breach/) Foodora is a german based food delivery company have leaked user personal information like email, phone number and un-salted password.
-- [Ledger](https://cointelegraph.com/news/ledger-data-leak-a-simple-mistake-exposed-270k-crypto-wallet-buyers) Ledger makes crypto hardware wallet which leaked 270k user's phone number and email
-- [Reincubate](https://reincubate.com/blog/security-incident-oct-2020/) Reincubate is a UK software company which make software for apple product have leaked user data.
-- [Aptoide](https://www.zdnet.com/article/details-of-20-million-aptoide-app-store-users-leaked-on-hacking-forum/) Aptoide is Android app publishing platform have leaked 20 million user records
-- [Sephora](https://cisomag.eccouncil.org/sephoras-online-customers-suffer-data-breach/) Sephora sells personal and beauty products, have leaked 3.5 million user data.
-- [8fit](https://nighthawkstrategies.com/cyber-attack-on-8fit-fitness-app-compromises-20-million-users/) 8fit is a app based fitness platform have leaked 20 million user personal data including credit card numbers.
-- [Cd Projekt Red](https://portswigger.net/daily-swig/cd-projekt-red-games-developer-releases-more-details-about-cyber-attack-that-exposed-private-data) cd projekt red is well know for it's games like cyber punk, witcher have leaked private data and source code. 
 ## America
-- [500px] (https://www.theverge.com/2019/2/13/18223660/500px-security-breach-14-8-million-users-personal-information-stolen-cybersecurity) 500px is photo sharing platform have leaked 14.8 million user personal data.
+- [500px](https://www.theverge.com/2019/2/13/18223660/500px-security-breach-14-8-million-users-personal-information-stolen-cybersecurity) 500px is photo sharing platform have leaked 14.8 million user personal data.
 - [Facebook](https://www.npr.org/2021/04/09/986005820/after-data-breach-exposes-530-million-facebook-says-it-will-not-notify-users) Facebook is one of the popular social networking company which leaked 530 million user personal data.
 - [Robinhood](https://blog.robinhood.com/news/2021/11/8/data-security-incident) Robinhood is a popular stock trading platform, which leaked 5 million user contact information.
 - [Wendys](https://www.bankinfosecurity.com/wendys-finally-reveals-more-breach-details-a-9097) Wendys is a popular food chain company leaked user information like password, phone number and email address.
@@ -37,5 +21,24 @@ of the leaks are missing.
 - [8tracks](https://blog.8tracks.com/2017/06/27/password-security-alert/) 8tracks is online radio platform have confirmed that their copy user database has been leaked.
 - [Imgur](https://blog.imgur.com/2017/11/24/notice-of-data-breach/) Imgur is a online image sharing and hosting platform have admitted the leak of 1.7 million user data.
 - [Nvidia](https://www.bleepingcomputer.com/news/security/nvidia-data-breach-exposed-credentials-of-over-71-000-employees/) Nvidia is known for designing GPU have leaked 71,000 employees data
+## Asia
+- [Mobikwik](https://indianexpress.com/article/technology/tech-news-technology/mobikwik-database-leaked-on-dark-web-company-denies-any-data-breach-7251448/) Mobikwik is india's leading payment solution providers, where they leaked 100 million user data which includes user identification number.
+- [Unacademy data breach](https://cisomag.eccouncil.org/unacademy-data-breach/) India-based online learning platform Unacademy suffered a data breach that exposed details of 22 million users.
+- [Upstox](https://timesofindia.indiatimes.com/business/india-business/upstox-face-data-breach-co-says-ramped-up-security/articleshow/82021166.cms) Upstox is a popular stock trading platform, which leaked 2.5 million user leaked personal indentification including kyc details.
+- [Tokopedia](https://www.thejakartapost.com/news/2020/05/04/tokopedia-data-breach-exposes-vulnerability-of-personal-data.html) Tokopedia is a Indonesia ecommerce comapny which valued more tha billion dollor have leaked 15 million user data.
+- [Lazada](https://www.channelnewsasia.com/singapore/lazada-redmart-data-breach-personal-information-millions-account-1305061) Lazada is a ecommerce company based out of south east asia leaked user credit card detaila and phone numbers
+- [DangDang](https://www.forcepoint.com/blog/x-labs/chinese-internet-suffers-most-serious-user-data-leak-history) DangDang is a chinese ecommerce company have leaked 40 million users data.
+- [Zomato](https://blog.ipleaders.in/zomatos-security-breach-data-leak-one-needs-know/#:~:text=Zomato%20is%20an%20online%20platform,IDs%2C%20usernames%20and%20password%20hashes.) Zomato is a food ordering platform have leaked all of it's user data including email and password.
+- [Zoomcar](https://www.team-bhp.com/news/zoomcar-hacked-data-35-million-users-sale) Zoomcar is a car rental platform which leaked 3.5 million user data
+
 ## Australia
 - [Canva](https://www.canva.com/help/incident-may24/) Canva is a graphic design platform have leaked user's email and salted password.
+
+## Europe
+- [Foodora](https://cisomag.eccouncil.org/foodora-data-breach/) Foodora is a german based food delivery company have leaked user personal information like email, phone number and un-salted password.
+- [Ledger](https://cointelegraph.com/news/ledger-data-leak-a-simple-mistake-exposed-270k-crypto-wallet-buyers) Ledger makes crypto hardware wallet which leaked 270k user's phone number and email
+- [Reincubate](https://reincubate.com/blog/security-incident-oct-2020/) Reincubate is a UK software company which make software for apple product have leaked user data.
+- [Aptoide](https://www.zdnet.com/article/details-of-20-million-aptoide-app-store-users-leaked-on-hacking-forum/) Aptoide is Android app publishing platform have leaked 20 million user records
+- [Sephora](https://cisomag.eccouncil.org/sephoras-online-customers-suffer-data-breach/) Sephora sells personal and beauty products, have leaked 3.5 million user data.
+- [8fit](https://nighthawkstrategies.com/cyber-attack-on-8fit-fitness-app-compromises-20-million-users/) 8fit is a app based fitness platform have leaked 20 million user personal data including credit card numbers.
+- [Cd Projekt Red](https://portswigger.net/daily-swig/cd-projekt-red-games-developer-releases-more-details-about-cyber-attack-that-exposed-private-data) cd projekt red is well know for it's games like cyber punk, witcher have leaked private data and source code. 
