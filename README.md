@@ -21,6 +21,9 @@ of the leaks are missing. of course, it's not awesome to have data leaks.
 - [8tracks](https://blog.8tracks.com/2017/06/27/password-security-alert/) 8tracks is online radio platform have confirmed that their copy user database has been leaked.
 - [Imgur](https://blog.imgur.com/2017/11/24/notice-of-data-breach/) Imgur is a online image sharing and hosting platform have admitted the leak of 1.7 million user data.
 - [Nvidia](https://www.bleepingcomputer.com/news/security/nvidia-data-breach-exposed-credentials-of-over-71-000-employees/) Nvidia is known for designing GPU have leaked 71,000 employees data
+
+
+
 ## Asia
 - [BigBasket](https://www.businessinsider.in/tech/news/big-basket-data-breach-email-ids-phone-numbers-home-addresses-of-two-crore-indians-allegedly-leaked-on-the-web/articleshow/82255857.cms#:~:text=on%20the%20web-,Big%20Basket%20data%20breach%3A%20email%20IDs%2C%20phone%20numbers%2C%20home,allegedly%20leaked%20on%20the%20web&text=Database%20of%20around%2020%20million,your%20data%20has%20been%20compromised.) Bigbasket is a grocery delivery platform have leaked of it's 20 million users.
 - [Mobikwik](https://indianexpress.com/article/technology/tech-news-technology/mobikwik-database-leaked-on-dark-web-company-denies-any-data-breach-7251448/) Mobikwik is india's leading payment solution providers, where they leaked 100 million user data which includes user identification number.
@@ -32,9 +35,17 @@ of the leaks are missing. of course, it's not awesome to have data leaks.
 - [Zomato](https://blog.ipleaders.in/zomatos-security-breach-data-leak-one-needs-know/#:~:text=Zomato%20is%20an%20online%20platform,IDs%2C%20usernames%20and%20password%20hashes.) Zomato is a food ordering platform have leaked all of it's user data including email and password.
 - [Zoomcar](https://www.team-bhp.com/news/zoomcar-hacked-data-35-million-users-sale) Zoomcar is a car rental platform which leaked 3.5 million user data
 - [Shein](https://www.zdnet.com/article/shein-fashion-retailer-announces-breach-affecting-6-42-million-users/) Shein is a online fashion platform have leaked 6.42 million user records.
+- [IndiaMART](https://corporate.indiamart.com/2020/06/25/indiamart-data-breach-40000-company-records-discovered-on-cybercrime-forums-the-daily-swig/)A breach at online marketplace IndiaMART has leaked the sensitive data of more than 40,000 suppliers.
+- [IRCTC](https://trak.in/tags/business/2021/09/23/teenager-discovers-irctc-bug-that-exposed-millions-of-user-data-helps-irctc-to-fix-it/)IRCTC Bug That Exposed Millions Of User Data.
+
+
+
+
 
 ## Australia
 - [Canva](https://www.canva.com/help/incident-may24/) Canva is a graphic design platform have leaked user's email and salted password.
+
+
 
 ## Europe
 - [Foodora](https://cisomag.eccouncil.org/foodora-data-breach/) Foodora is a german based food delivery company have leaked user personal information like email, phone number and un-salted password.
