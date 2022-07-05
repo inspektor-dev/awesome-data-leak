@@ -32,6 +32,7 @@ of the leaks are missing. of course, it's not awesome to have data leaks.
 - [Zomato](https://blog.ipleaders.in/zomatos-security-breach-data-leak-one-needs-know/#:~:text=Zomato%20is%20an%20online%20platform,IDs%2C%20usernames%20and%20password%20hashes.) Zomato is a food ordering platform have leaked all of it's user data including email and password.
 - [Zoomcar](https://www.team-bhp.com/news/zoomcar-hacked-data-35-million-users-sale) Zoomcar is a car rental platform which leaked 3.5 million user data
 - [Shein](https://www.zdnet.com/article/shein-fashion-retailer-announces-breach-affecting-6-42-million-users/) Shein is a online fashion platform have leaked 6.42 million user records.
+- [WeWork India](https://github.com/inspektor-dev/awesome-data-leak) WeWork is a premium coworking space provider, have leaked all it's indian co-working space visitors details including mine :(
 
 ## Australia
 - [Canva](https://www.canva.com/help/incident-may24/) Canva is a graphic design platform have leaked user's email and salted password.
