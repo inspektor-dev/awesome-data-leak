@@ -37,9 +37,8 @@ of the leaks are missing. of course, it's not awesome to have data leaks.
 - [Shein](https://www.zdnet.com/article/shein-fashion-retailer-announces-breach-affecting-6-42-million-users/) Shein is a online fashion platform have leaked 6.42 million user records.
 - [IndiaMART](https://corporate.indiamart.com/2020/06/25/indiamart-data-breach-40000-company-records-discovered-on-cybercrime-forums-the-daily-swig/)A breach at online marketplace IndiaMART has leaked the sensitive data of more than 40,000 suppliers.
 - [IRCTC](https://trak.in/tags/business/2021/09/23/teenager-discovers-irctc-bug-that-exposed-millions-of-user-data-helps-irctc-to-fix-it/)IRCTC Bug That Exposed Millions Of User Data.
-
-
-
+- [WeWork India](https://techcrunch.com/2022/07/04/wework-exposed-visitors-data/) WeWork is a premium coworking space provider, have leaked all it's indian co-working space visitors details including mine :(
+- [Cleartrip](https://techcrunch.com/2022/07/18/cleartrip-data-breach-dark-web/) Hackers have hacked Cleartrip(popular travel booking site) and leaked all the user data on darknet. 
 
 
 ## Australia
