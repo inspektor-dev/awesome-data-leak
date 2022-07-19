@@ -1,4 +1,7 @@
 # Awesome data leaks
+<img width="1000" alt="data breach logo" src="https://user-images.githubusercontent.com/52788043/179822438-66a32421-04d0-4164-bcb4-ba6e0cdab5a9.png">
+
+
 
 Here we collected all the list data leaks happened across the world. Feel free to add to the list if some
 of the leaks are missing. of course, it's not awesome to have data leaks.
